@@ -5,7 +5,7 @@
 </br>
 <h1>
   <ol>
-    <Li>Python first projekct :</Li>
+    <Li>Python first project :</Li>
   </ol>
 </h1>
 <hr>
